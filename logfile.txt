@@ -1,0 +1,2 @@
+INFO:root:The content of quine.py was successfully extracted.
+INFO:root:The content of quine.py was successfully extracted.
